@@ -3,7 +3,7 @@ A simple todo list in pure javascript as an exercise in learning to program. No 
 
 Teaching myself pure javascript so I'm making a todo list. Right now its all client-side but eventually I want to add local storage to learn about it, and then move on to plugging this bad boy to a database.
 
-online demo: <a href="http://www.conquerjs.com">conquerjs.com/todo</a>
+online demo: <a href="http://www.conquerjs.com/todo">conquerjs.com/todo</a>
 
 ####Things left to do:
 
